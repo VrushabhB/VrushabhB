@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VrushabhB
+- 👋 Hi, I’m Vrushabh Bayas
 - 👀 I’m interested in ReactJs,Node js, Webdevelopment 
 - 🌱 I’m currently learning Node js...
 - 💞️ engaged 
