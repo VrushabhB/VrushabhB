@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Node js...
 - 💞️ engaged 
 - 📫 Reach me - @VrushabBayas (twiiter)
+- LinkedIn - https://www.linkedin.com/in/vrushab-bayas-32ba8415b/
+- 
 
 <!---
 VrushabhB/VrushabhB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
