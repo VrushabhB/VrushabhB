@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vrushabh Bayas
-- 👀 I’m interested in ReactJs,Node js, Webdevelopment 
+- 👀 I’m interested in Javascript ReactJs,Node js, NextJs,HTML/CSS and  Webdevelopment 
 - 🌱 I’m currently learning Node js...
 - 💞️ engaged 
 - 📫 Reach me - @VrushabBayas (twiiter)
